@@ -1,2 +1,2 @@
 # FLEXLAB-ASHRAE140
-These are supporting files for the ASHRAE SSPC 140 Validation and Uncertainty research project. This repository contains files with measured results as well as construction details
+These are supporting files for the ASHRAE SSPC 140 Validation and Uncertainty research project.  This repository contains files with measured results as well as construction details related to the experiments at FLEXLAB. The document "Measured dataset for validation of building energy modeling programs.pdf" contains a description of the experiments. For further questions contact Ralph Muehleisen or Zhaoyun Zeng at Argonnen National Laboratory.
