@@ -1,0 +1,55 @@
+,Material,Roughness,Thickness (m),Conductivity,Density ,Specific Heat (J/kg-K),Thermal Absorptance,Solar Absorptance,Visible Absorptance
+0,,,,(W/m-K),(kg/m3),,,,
+1,"Topping Slab 6""",Rough,0.1524,1.95,2087,900,0.9,0.65,0.65
+2,"Slab Horizontal Insulation 5""",Smooth,0.127,0.035,265,1300,0.9,0.65,0.65
+3,"HW Concrete 5""",Rough,0.127,1.311,2240,836.8,0.9,0.7,0.7
+4,Metal Panel 0.0433,Medium Smooth,0.0011,62,7580,485,0.9,0.5,0.5
+5,"Cement Board 0.65""",Medium Smooth,0.0165,0.597,1922,837,0.9,0.5,0.5
+6,"SIP 7.25""",Medium Smooth,0.1842,0.038,29,1210,0.9,0.5,0.5
+7,"R20 Ins Board 4""",Medium Smooth,0.1016,0.037,29,1213,0.9,0.5,0.5
+8,"R3.8 Ins Board 3/4""",Medium Smooth,0.0191,0.035,29,1213,0.9,0.5,0.5
+9,"R13 Insulation Board 7.5""",Medium Smooth,0.1905,0.039,48,1318,0.9,0.5,0.5
+10,"Acous Tile 3/4""",Medium Smooth,0.0191,0.057,288,1331,0.9,0.2,0.2
+11,Spray-on Insul and Wood,Rough,0.2413,0.0324,68.71,1558,0.9,0.12,0.7
+12,"Roof Decking 1/2""",Medium Smooth,0.0127,0.13,850,1300,0.9,0.12,0.7
+13,"Polyiso 2""",Medium Smooth,0.0508,0.022,31.65,1500,0.9,0.5,0.5
+14,"Polyiso 2.25""",Medium Smooth,0.0572,0.0186,31.65,1500,0.1,0.3,0.3
+15,"Additional Insulation 6""",Medium Rough,0.1524,0.023,40,1500,0.9,0.7,0.7
+16,"Cotton Batt 7""",Medium Smooth,0.178,0.059,1480,1307,0.2,0.5,0.5
+19,"HW CONCRETE 5""",Rough,0.127,1.311,2240,836.8,0.9,0.7,0.7
+21,"Plywood 1/2""",Medium Smooth,0.0127,0.115,545,1213,0.9,0.5,0.5
+22,"Plywood 3/4""",Medium Smooth,0.0191,0.115,545,1213,0.9,0.5,0.5
+23,"Plywood 1.125""",Medium Smooth,0.0286,0.115,545,1213,0.9,0.5,0.5
+24,"Gypsum Board 5/8""",Medium Smooth,0.0159,0.16,801,837,0.9,0.69,0.63
+25,"Gypsum Board 1/2""",Medium Smooth,0.0127,0.16,801,837,0.9,0.69,0.63
+28,"Ins Board 4"" R20",Medium Smooth,0.1016,0.037,29,1213,0.9,0.5,0.5
+29,"Ins Board 3/4"" R3.8",Medium Smooth,0.0191,0.035,29,1213,0.9,0.5,0.5
+30,"Ins Board 7.5"" R13",Medium Smooth,0.1905,0.039,48,1318,0.9,0.5,0.5
+32,"Carpet 1/4""",Medium Smooth,0.0064,0.06,288,1380,0.9,0.7,0.7
+36,"Polyiso 4.5""",Medium Smooth,0.1143,0.0186,31.65,1500,0.2,0.5,0.5
+37,"Polyiso 2.25"" TempNwall SouthFacing",Medium Smooth,0.0572,0.0186,31.65,1500,0.9,0.3,0.3
+38,"Polyiso 2.25"" TempNwall NorthFacing",Medium Smooth,0.0572,0.0186,31.65,1500,0.1,0.3,0.3
+39,"AdditionalInsulation 6""",Medium Rough,0.1524,0.023,40,1500,0.9,0.7,0.7
+41,Equiv Layer K1-Kwall South Corner,Medium Smooth,0.0762,0.035,109.2,1276,0.9,0.5,0.5
+42,Equiv Layer K2-Kwall South Corner,Medium Smooth,0.0762,0.046,111.3,1278,0.9,0.5,0.5
+43,Equiv Layer K3-Kwall South Corner,Medium Smooth,0.197,0.042,853.6,1300,0.9,0.5,0.5
+44,Equiv Layer K1-Kwall North Corner,Medium Smooth,0.0762,0.055,109.2,1276,0.9,0.5,0.5
+45,Equiv Layer K2-Kwall North Corner,Medium Smooth,0.0762,0.065,111.3,1278,0.9,0.5,0.5
+46,Equiv Layer K3-Kwall North Corner,Medium Smooth,0.197,0.052,874.9,1312,0.9,0.5,0.5
+47,Equiv Layer K1-Kwall Middle,Medium Smooth,0.0762,0.0504,48.3,1228,0.9,0.5,0.5
+48,Equiv Layer K1-Jwall South,Medium Smooth,0.0889,0.0465,105.1,1273,0.9,0.5,0.5
+49,Equiv Layer K2-Jwall South,Medium Smooth,0.1053,0.096,873,1109,0.9,0.5,0.5
+50,Equiv Layer K3-Jwall South,Medium Smooth,0.1827,0.292,694,1287,0.9,0.5,0.5
+51,Equiv Layer K1-Jwall North,Medium Smooth,0.1016,0.0565,619.6,1010,0.9,0.5,0.5
+52,Equiv Layer K2-Jwall North,Medium Smooth,0.1848,0.184,747.9,1599,0.9,0.5,0.5
+53,Equiv Layer K1-Hwall South,Medium Smooth,0.1016,0.046,75.3,1250,0.9,0.5,0.5
+54,Equiv Layer K2-Hwall South,Medium Smooth,0.1016,0.0488,297.9,1411,0.9,0.5,0.5
+55,Equiv Layer K3-Hwall South,Medium Smooth,0.3927,0.066,1428,1044,0.9,0.5,0.5
+56,Equiv Layer K1-Hwall North,Medium Smooth,0.0889,0.0503,107.1,1274,0.9,0.5,0.5
+57,Equiv Layer K2-Hwall North,Medium Smooth,0.1803,0.0635,89.6,1261,0.9,0.5,0.5
+58,Equiv Layer K3-Hwall North,Medium Smooth,0.508,0.116,563.7,968,0.9,0.5,0.5
+59,Equiv Layer K1-SouthWall,Medium Smooth,0.1524,0.174,105.9,1312,0.9,0.5,0.5
+60,Equiv Layer K1-NorthWall,Medium Smooth,0.1842,0.205,270,1300,0.9,0.5,0.5
+61,Equiv Layer K2-NorthWall,Medium Smooth,0.0762,0.0418,72.9,1249,0.9,0.5,0.5
+62,Equiv Layer K4-NorthWall,Medium Smooth,0.1524,0.136,80.1,1314,0.9,0.5,0.5
+63,Equiv Layer K5-NorthWall,Medium Smooth,0.0889,0.3706,79.4,230,0.9,0.5,0.5
